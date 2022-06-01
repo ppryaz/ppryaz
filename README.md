@@ -1,4 +1,7 @@
-### Hi there 👋
+Привет! Меня зовут Александр.
+Я выпускник курса "Разработка на С++" от Яндекс Практикума.
+
+Мой профиль на  <a href ="https://hh.ru/resume/46c2028bff0ae085320039ed1f5938396d6735.ru"> hh.ru</a> 
 
 <!--
 **ppryaz/ppryaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
