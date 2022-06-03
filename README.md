@@ -1,5 +1,7 @@
-Привет! Меня зовут Александр.
-Я выпускник курса "Разработка на С++" от Яндекс Практикума.
+### ✨ Привет! ✨ Меня зовут Александр.
+#### Я выпускник курса "Разработка на С++" от Яндекс Практикума.
+
+#### **Стек:** C++17, MS VS, GCC, Clang, Git, CMake, protobuf, RAII
 
 <!--
 **ppryaz/ppryaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
