@@ -3,6 +3,11 @@
 
 #### **Стек:** C++17, MS VS, GCC, Clang, Git, CMake, protobuf, RAII
 
+- 🎃 Hi, I’m @alexandr_ryazanov!
+- 🤦‍♂️ I’m interested in c++ and many others.
+- 👨🏻‍🦽 I’m looking to collaborate on an interesting project!
+- ✉️ You can reach me by mail: ppryaz@yandex.ru!
+
 <!--
 **ppryaz/ppryaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
