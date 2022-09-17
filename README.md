@@ -1,8 +1,7 @@
 ### ✨ Привет! ✨ Меня зовут Александр.
 #### Я выпускник курса "Разработка на С++" от Яндекс Практикума.
 
-#### **Стек:** C++17, MS VS, GCC, Clang, Git, CMake, protobuf, RAII
-#### Linux, bash
+#### **Стек:** Linux, bash, C++17, MS VS, Git, CMake, protobuf, RAII
 
 - 🎃 Hi, I’m @alexandr_ryazanov!
 - 🤦‍♂️ I’m interested in c++ and many others.
