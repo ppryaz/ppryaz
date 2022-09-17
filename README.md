@@ -2,6 +2,7 @@
 #### Я выпускник курса "Разработка на С++" от Яндекс Практикума.
 
 #### **Стек:** C++17, MS VS, GCC, Clang, Git, CMake, protobuf, RAII
+###№ Linux, bash
 
 - 🎃 Hi, I’m @alexandr_ryazanov!
 - 🤦‍♂️ I’m interested in c++ and many others.
